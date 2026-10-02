@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5820200af4.tkgf2.cn/sitemap.xml
